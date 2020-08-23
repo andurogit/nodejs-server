@@ -175,21 +175,3 @@ webpack 적용은 https://poiemaweb.com/es6-babel-webpack-2 블로그 참조하�
 환경 구축이 안되있는경우 package.json 이 있는 폴더 경로에서 
 
 > npm install
-
-"fibers": "3.1.0", <-- 파이선 오류남 2.7로 다운그레이드 하란다.
-
-npm install --global --production windows-build-tools
-
-gyp 이게뭔데...
-
-npm install --global --production windows-build-tools && npm install --global node-gyp
--> 파워쉘에서 실행하래?
--> 관라자모드로
--> && 안먹히니 두줄로 나눠서
-npm install --global --production windows-build-tools
-npm install --global node-gyp
-
-안되.. 왜안돼...
-
-npm install --global --production windows-build-tools
-이거 다시해보래 오래걸린데...
