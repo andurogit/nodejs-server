@@ -1,0 +1,7 @@
+{
+    "database_info": {
+        "user" : "hfcpov",
+        "password" : "hfcpumei",
+        "connectString" : "192.1.5.110:1521/MRSTEST"
+    }
+}
